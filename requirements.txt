@@ -1,0 +1,9 @@
+torch
+pandas
+youtokentome
+tqdm
+numpy
+matplotlib
+boto3
+loguru
+scipy
