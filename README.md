@@ -13,3 +13,9 @@ Data preparation.ipynb – предобработка данных
 
 ## Телеграм-бот
 Для запуска использовать telegram_bot.py
+
+# Примеры генерации
+
+![Пример 1](example_1.png)
+![Пример 2](example_2.png)
+![Пример 3](example_3.png)
